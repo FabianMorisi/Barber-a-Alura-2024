@@ -47,8 +47,11 @@ ul{
     width: 30%;
 }
 
-.irAProductos{
+.iraproductos{
     font-size: 20px;
-   
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
 }
 
